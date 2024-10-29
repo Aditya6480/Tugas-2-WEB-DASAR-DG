@@ -1,0 +1,27 @@
+*{
+#Home {
+    background-color: azure;
+    height: 300px;
+}    
+#About {
+    background-color: aqua;
+    height: 500px;
+}
+#MyFavorite {
+    background-color: #ffffff;
+    height: 600px;
+}
+#Contact {
+    background-color: lightblue;
+    height: 700px;
+}
+}
+nav a {
+    background-color: blue;
+    color: #ffffff;
+    font-size: 1.2em;
+    padding: 1em 2em;
+    text-decoration: none;
+
+}
+
